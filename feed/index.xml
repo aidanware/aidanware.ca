@@ -12,12 +12,32 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate></lastBuildDate>
+	<lastBuildDate>Thu, 06 Jun 2024 03:23:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.5.4</generator>
-</channel>
+	<item>
+		<title>Site under development 🫥</title>
+		<link>/hello-world/</link>
+					<comments>/hello-world/#respond</comments>
+		
+		<dc:creator><![CDATA[aidandware]]></dc:creator>
+		<pubDate>Thu, 06 Jun 2024 00:43:01 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[Currently down the rabbit hole of WordPress and self-hosting&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>Currently down the rabbit hole of WordPress and self-hosting&#8230; </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
 </rss>
